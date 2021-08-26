@@ -1,0 +1,6 @@
+numero1 = int(input("digite um numero: "))
+numero2 = int(input("digite um numero: "))
+numero3 = int(input("digite um numero: "))
+numero4 = int(input("digite um numero: "))
+soma = (numero1+numero2+numero3+numero4)
+print ("sua soma deu: " , soma)
