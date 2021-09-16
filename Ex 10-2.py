@@ -5,3 +5,4 @@ def km_ms():
     K = float(input('Entre com o km/h: '))
     M = K/3.6
     print('Valor em Fahrenheit: {0}M/S'.format(M))
+
